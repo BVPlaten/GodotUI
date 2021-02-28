@@ -16,7 +16,7 @@ _global_script_class_icons={
 [application]
 
 config/name="UserInterfaces"
-run/main_scene="res://Node2D.tscn"
+run/main_scene="res://LoadImage.tscn"
 config/icon="res://icon.png"
 
 [display]
